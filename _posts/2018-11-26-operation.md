@@ -65,7 +65,7 @@ tag: 博客
       r: 4
       w: 2
       x: 1
-    10. wc -1: 统计文件的行数
+    10. wc -l: 统计文件的行数
       wc -l /etc/passwd: 统计Linux系统有多少个用户
     11. sort: 对文件中的内容进行排序
     12. uniq -c
